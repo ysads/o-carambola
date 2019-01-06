@@ -72,15 +72,3 @@
 .amadeus-theme-info hr {
 	margin: 10px auto;
 }
-
-.entry-meta, .entry-meta a, .entry-footer, .entry-footer a {
-	text-transform: lowercase !important;
-}
-
-.h1 {
-	font-size: 24px;
-}
-
-body {
-	font-size: 14px;
-}

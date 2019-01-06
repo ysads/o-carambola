@@ -21,7 +21,7 @@ body {
 	color: #4c4c4c;
 	background-color: #f7f3f0;
 	font-family: "Noto Serif", serif;
-	font-size: 15px;
+	font-size: 14px;
 	line-height: 1.6;
 	word-wrap: break-word;
 }
@@ -36,7 +36,7 @@ h6 {
 	font-weight: 700;
 }
 h1 {
-	font-size: 38px;
+	font-size: 24px;
 }
 a,
 a:hover {
@@ -717,6 +717,7 @@ textarea {
 .entry-footer a {
 	color: #9d9d9d;
 	text-decoration: none;
+	text-transform: lowercase !important;
 }
 .entry-meta a,
 .entry-footer a {

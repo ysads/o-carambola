@@ -311,6 +311,8 @@ textarea {
 }
 .main-navigation a {
 	display: inline-block;
+	font-size: 14px;
+  text-transform: lowercase;
 }
 .main-navigation ul ul a {
 	float: none;

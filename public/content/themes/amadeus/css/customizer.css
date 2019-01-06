@@ -74,7 +74,7 @@
 }
 
 .entry-meta, .entry-meta a, .entry-footer, .entry-footer a {
-	text-transform: lowercase;
+	text-transform: lowercase !important;
 }
 
 .h1 {

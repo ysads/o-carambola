@@ -12,7 +12,7 @@
 		<?php the_post_thumbnail( 'amadeus-entry-thumb' ); ?>
 		<div class="entry-thumb-inner">
 		</div>
-		<a class="thumb-icon" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" ><i class="fa fa-send"></i></a>
+		<a class="thumb-icon" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" ></a>
 	</div>
 	<?php endif; ?>
 

@@ -236,13 +236,13 @@ textarea {
 }
 .main-navigation a {
 	display: block;
-	color: #ffffff;
+	color: #ffffff !important;
 	text-decoration: none;
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
 }
 .main-navigation a:hover {
-	color: #ffffff;
+	color: #ffffff !important;
 }
 
 .main-navigation ul ul {
@@ -763,6 +763,9 @@ textarea {
 .entry-title a:hover {
 	color: #618eba;
 }
+.attachment-amadeus-entry-thumb {
+	max-height: 200px !important;
+}
 .single-thumb,
 .entry-thumb {
 	position: relative;
@@ -775,7 +778,7 @@ textarea {
 	width: 100%;
 	height: 100%;
 	opacity: 0;
-	background-color: #618eba;
+	background-color: none;
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
 }
@@ -784,7 +787,7 @@ textarea {
 	left: 10%;
 	width: 80%;
 	height: 80%;
-	opacity: 0.6;
+	opacity: 0;
 }
 .thumb-icon {
 	position: absolute;
@@ -800,7 +803,7 @@ textarea {
 	color: #fff;
 }
 .entry-thumb:hover .thumb-icon {
-	opacity: 1;
+	opacity: 0;
 }
 .page-header {
 	margin: 0 0 45px;

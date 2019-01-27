@@ -227,7 +227,6 @@ textarea {
 	display: inline-block;
 	position: relative;
 	padding: 15px;
-	border-right: 1px solid #e0e0e0;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -237,13 +236,13 @@ textarea {
 }
 .main-navigation a {
 	display: block;
-	color: #1c1c1c;
+	color: #ffffff;
 	text-decoration: none;
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
 }
 .main-navigation a:hover {
-	color: #618eba;
+	color: #ffffff;
 }
 
 .main-navigation ul ul {
@@ -360,6 +359,7 @@ textarea {
 	text-transform: lowercase;
 	-webkit-transition: color 0.4s;
 	transition: color 0.4s;
+	color: inherit !important;
 }
 .nav-next a:hover,
 .nav-previous a:hover {
@@ -693,10 +693,8 @@ textarea {
 	border: 1px solid #e0e0e0;
 	background-color: #fff;
 }
-.entry-box {
-	img {
-		max-height: 200px;	
-	}
+.entry-box img {
+	max-height: 200px;
 }
 .post-inner {
 	padding: 30px;

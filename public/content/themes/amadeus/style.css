@@ -211,6 +211,11 @@ textarea {
 .menu-above {
 	border-top: 0;
 }
+.menu-menu-principal-container {
+	color: #ffffff;
+	background: #000000;
+}
+
 .main-navigation ul {
 	margin: 0;
 	padding-left: 0;
@@ -335,8 +340,8 @@ textarea {
 	float: left;
 	max-width: 50%;
 	padding: 15px;
-	border: 1px solid #e0e0e0;
-	background-color: #fff;
+	background-color: #000000;
+  color: #ffffff !important;
 }
 
 .comment-navigation .nav-next,
@@ -345,21 +350,20 @@ textarea {
 	float: right;
 	max-width: 50%;
 	padding: 15px;
-	border: 1px solid #e0e0e0;
-	background-color: #fff;
+	background-color: #000000;
+  color: #ffffff !important;
 	text-align: right;
 }
 .nav-next a,
 .nav-previous a {
-	color: #1c1c1c;
 	text-decoration: none;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	-webkit-transition: color 0.4s;
 	transition: color 0.4s;
 }
 .nav-next a:hover,
 .nav-previous a:hover {
-	color: #618eba;
+	color: #ffffff !important;
 }
 
 
@@ -679,14 +683,20 @@ textarea {
 ## Posts and pages
 --------------------------------------------------------------*/
 
+
+
 .sticky {
 	display: block;
 }
-
 .hentry {
 	margin: 0 0 45px;
 	border: 1px solid #e0e0e0;
 	background-color: #fff;
+}
+.entry-box {
+	img {
+		max-height: 200px;	
+	}
 }
 .post-inner {
 	padding: 45px;

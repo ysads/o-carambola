@@ -699,7 +699,7 @@ textarea {
 	}
 }
 .post-inner {
-	padding: 45px;
+	padding: 30px;
 }
 .updated:not(.published) {
 	display: none;
@@ -1181,7 +1181,7 @@ img {
 .slicknav_nav a {
 	margin: 2px 5px;
 	padding: 5px 10px;
-	color: #fff;
+	color: #fff !important;
 	text-decoration: none;
 }
 .slicknav_nav .slicknav_item a,
@@ -1688,7 +1688,7 @@ img {
 }
 @media only screen and (max-width: 600px) {
 	.post-inner {
-		padding: 15px;
+		padding: 20px;
 	}
 	h1 {
 		font-size: 28px;

@@ -299,7 +299,7 @@ function amadeus_excerpt_more( $more ) {
         '&hellip;<a href="%1$s" class="more-link">%2$s</a>',
 		esc_url( get_permalink( get_the_ID() ) ),
 		/* translators: post title */
-        sprintf( __( 'Continue reading %s', 'amadeus' ), '<span class="screen-reader-text">' . get_the_title( get_the_ID() ) . '</span>' )
+        sprintf( 'Continuar lendo', '<span class="screen-reader-text">' . get_the_title( get_the_ID() ) . '</span>' )
     );
 }
 add_filter( 'excerpt_more', 'amadeus_excerpt_more' );

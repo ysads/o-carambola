@@ -55,8 +55,8 @@
 	//Menu color
 	wp.customize('menu_color',function( value ) {
 		value.bind( function( newval ) {
-			$('.main-navigation a').attr('style', 'color:' + newval + '!important;' );
-			$('.main-navigation ul ul a').css('color', '#fff' );
+			// $('.main-navigation a').attr('style', 'color:' + newval + '!important;' );
+			// $('.main-navigation ul ul a').css('color', '#fff' );
 		} );
 	});
 

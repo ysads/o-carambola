@@ -314,6 +314,7 @@ textarea {
 	display: none;
 }
 .main-navigation a {
+	color: white !important;
 	display: inline-block;
 	font-size: 14px;
   text-transform: lowercase;

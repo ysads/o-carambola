@@ -58,7 +58,7 @@ function amadeus_custom_styles() {
 	$menu_bg = get_theme_mod( 'menu_bg', '#fff' );
 	$custom .= '.main-navigation { background-color:' . esc_attr( $menu_bg ) . '}' . "\n";
 	// Menu items
-	$menu_color = get_theme_mod( 'menu_color', '#1c1c1c' );
+	$menu_color = get_theme_mod( 'menu_color', '#ffffff' );
 	$custom    .= '.main-navigation a { color:' . esc_attr( $menu_color ) . ' !important;}' . "\n";
 
 	// Site title

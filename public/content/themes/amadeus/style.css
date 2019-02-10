@@ -763,13 +763,12 @@ textarea {
 .entry-title a:hover {
 	color: #618eba;
 }
-.attachment-amadeus-entry-thumb {
-	max-height: 200px !important;
-}
 .single-thumb,
 .entry-thumb {
 	position: relative;
 	text-align: center;
+	overflow: auto;
+	height: 200px;
 }
 .entry-thumb-inner {
 	position: absolute;

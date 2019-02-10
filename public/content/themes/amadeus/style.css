@@ -201,6 +201,7 @@ textarea {
 --------------------------------------------------------------*/
 
 .main-navigation {
+	background-color: #000;
 	display: block;
 	float: left;
 	clear: both;

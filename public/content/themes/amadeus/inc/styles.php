@@ -55,7 +55,7 @@ function amadeus_custom_styles() {
 	$branding_bg = get_theme_mod( 'branding_bg', '#fff' );
 	$custom     .= '.branding-wrapper { background-color:' . esc_attr( $branding_bg ) . '}' . "\n";
 	// Menu
-	$menu_bg = get_theme_mod( 'menu_bg', '#fff' );
+	$menu_bg = get_theme_mod( 'menu_bg', '#000' );
 	$custom .= '.main-navigation { background-color:' . esc_attr( $menu_bg ) . '}' . "\n";
 	// Menu items
 	$menu_color = get_theme_mod( 'menu_color', '#ffffff' );

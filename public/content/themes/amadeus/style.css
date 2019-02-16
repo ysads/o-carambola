@@ -767,7 +767,7 @@ textarea {
 .entry-thumb {
 	position: relative;
 	text-align: center;
-	overflow: auto;
+	overflow: hidden;
 	height: 200px;
 }
 .entry-thumb-inner {

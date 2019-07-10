@@ -34,22 +34,23 @@
 			<url>https://s3-us-east-2.amazonaws.com/o-carambola/content/uploads/2019/07/09231851/ep1_cover.jpg</url>
 		</image>
 		<item>
-		<author>O Carambola Cast</author>
-		<title>O Carambola Cast #1 - Piloto + Stagecoach</title>
-		  <description>
-			No episódio piloto do podcast O Carambola, Caio Fernandes conta suas percepções sobre um dos maiores clássicos do western, Stagecoach, de 1939. Dirigido por John Ford, o filme é uma das principais obras cinematográficas do gênero e foi responsável por fazer as carreiras de John Wayne e Claire Trevor decolar.
-			#ocarambola #cinema #stagecoach
-			Blog: ocarambola.com
-		  </description>
-		  <link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep1.mp3</link>
-		  <pubDate>Sun, 07 Jul 2019 18:00 -0300</pubDate>
-		  <itunes:duration>0:50:19</itunes:duration>
-		  <itunes:keywords>piloto, stagecoach, cinema noir</itunes:keywords>
-		  <itunes:summary>Caio Fernandes comenta sobre o filme Stagecoach, de 1939</itunes:summary>
-		  <itunes:subtitle>Caio Fernandes comenta sobre o filme Stagecoach, de 1939</itunes:subtitle>
-		  <itunes:author>Caio Fernandes</itunes:author>
-		  <itunes:explicit>NO</itunes:explicit>
-		  <itunes:block>no</itunes:block>
-		  <enclosure url="https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep1.mp3" type="audio/mpeg" />
+			<author>O Carambola Cast</author>
+			<title>O Carambola Cast #1 - Piloto + Stagecoach</title>
+			<description>
+				No episódio piloto do podcast O Carambola, Caio Fernandes conta suas percepções sobre um dos maiores clássicos do western, Stagecoach, de 1939. Dirigido por John Ford, o filme é uma das principais obras cinematográficas do gênero e foi responsável por fazer as carreiras de John Wayne e Claire Trevor decolar.
+				#ocarambola #cinema #stagecoach
+				Blog: ocarambola.com
+			</description>
+			<link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep1.mp3</link>
+			<pubDate>Sun, 07 Jul 2019 18:00 -0300</pubDate>
+			<itunes:duration>0:50:19</itunes:duration>
+			<itunes:keywords>piloto, stagecoach, cinema noir</itunes:keywords>
+			<itunes:summary>Caio Fernandes comenta sobre o filme Stagecoach, de 1939</itunes:summary>
+			<itunes:subtitle>Caio Fernandes comenta sobre o filme Stagecoach, de 1939</itunes:subtitle>
+			<itunes:author>Caio Fernandes</itunes:author>
+			<itunes:explicit>NO</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep1.mp3" type="audio/mpeg" />
+		</item>
 	</channel>
 </rss>

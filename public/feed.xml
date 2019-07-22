@@ -16,7 +16,7 @@
 		<itunes:summary>Dissecando os clássicos</itunes:summary>
 		<itunes:subtitle>Dissecando os clássicos</itunes:subtitle>
 		<itunes:image href="https://s3-us-east-2.amazonaws.com/o-carambola/content/uploads/2019/07/09233009/carambola_cast_general_art.jpg"/>
-		<itunes:author>Caio Fernandes (https://ocarambola.com</itunes:author>
+		<itunes:authorO Carambola</itunes:author>
 		<webMaster>https://ocarambola.com/</webMaster>
 		<copyright>Copyright @ 2018-2019 O Carambola</copyright>
 		<language>pt-br</language>
@@ -35,11 +35,32 @@
 		</image>
 		<item>
 			<author>O Carambola Cast</author>
-			<title>O Carambola Cast #1 - Piloto + Stagecoach</title>
+			<title>O Carambola Cast #2 - Thriller + The Third Man (1949)</title>
+			<description>
+				No segundo episódio do podcast O Carambola, Caio Fernandes conta suas percepções sobre The Third Man, um clássico thriller de 1949. Dirigido por Carol Reed, o filme é uma das principais obras cinematográficas dos anos 1940 e chama a atenção por reunir de forma prolixa todos os elementos que um bom filme de mistério precisa ter.
+				#ocarambola #cinema #thethirdman
+				Blog: ocarambola.com
+				Twitter: twitter.com/olarcaio
+			</description>
+			<link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep2.mp3</link>
+			<pubDate>Sun, 21 Jul 2019 18:00 -0300</pubDate>
+			<itunes:duration>01:03:56</itunes:duration>
+			<itunes:keywords>thriller, the third man, cinema noir</itunes:keywords>
+			<itunes:summary>Caio Fernandes comenta sobre o filme The Third Man, de 1949</itunes:summary>
+			<itunes:subtitle>Caio Fernandes comenta sobre o filme The Third Man, de 1949</itunes:subtitle>
+			<itunes:author>Caio Fernandes</itunes:author>
+			<itunes:explicit>NO</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep2.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<author>O Carambola Cast</author>
+			<title>O Carambola Cast #1 - Piloto + Stagecoach (1939)</title>
 			<description>
 				No episódio piloto do podcast O Carambola, Caio Fernandes conta suas percepções sobre um dos maiores clássicos do western, Stagecoach, de 1939. Dirigido por John Ford, o filme é uma das principais obras cinematográficas do gênero e foi responsável por fazer as carreiras de John Wayne e Claire Trevor decolar.
 				#ocarambola #cinema #stagecoach
 				Blog: ocarambola.com
+				Twitter: twitter.com/olarcaio
 			</description>
 			<link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep1.mp3</link>
 			<pubDate>Sun, 07 Jul 2019 18:00 -0300</pubDate>

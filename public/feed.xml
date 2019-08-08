@@ -22,7 +22,7 @@
 		<language>pt-br</language>
 		<title>O Carambola Cast</title>
 		<link>https://ocarambola.com/</link>
-		<description>Cinema clássico, cinema noir, antigo, velho... Esses são os temas discutidos no podcast O Carambola. Todo domingo, às 22h, Caio Fernandes conta suas percepções sobre um filme clássico e discute aspectos importantes da indústria cinematográfica. Ouça e compartilhe com seus amigos cinéfilos!
+		<description>Cinema clássico, cinema noir, antigo, velho... Esses são os temas discutidos no podcast O Carambola. Toda quarta-feira, às 22h, Caio Fernandes conta suas percepções sobre um filme clássico e discute aspectos importantes da indústria cinematográfica. Ouça e compartilhe com seus amigos cinéfilos!
                              Blog: ocarambola.com</description>
 		<pubDate>Sun, 07 Jul 2019 18:00:00 -0300</pubDate>
 		<itunes:owner>
@@ -34,6 +34,26 @@
 			<link>https://ocarambola.com/</link>
 			<url>https://s3-us-east-2.amazonaws.com/o-carambola/content/uploads/2019/07/09233009/carambola_cast_general_art.jpg</url>
 		</image>
+		<item>
+			<author>O Carambola Cast</author>
+			<title>O Carambola Cast #4 - Expressionismo alemão + 'M, O Vampiro de Düsseldorf' (1931)</title>
+			<description>
+                                No episódio de número quatro do podcast O Carambola, Caio Fernandes fala sobre expressionismo alemão e o filme "M, O Vampiro de Düsseldorf". De 1931, o clássico de Fritz Lang é um dos maiores representantes do movimento e um thriller de tirar o fôlego.				
+				#ocarambola #cinema #expressionismo
+				Blog: https://ocarambola.com
+				Twitter: https://twitter.com/olarcaio
+			</description>
+			<link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/EPIS%C3%93DIO+4.mp3</link>
+			<pubDate>Wed, 07 Agu 2019 21:00 -0300</pubDate>
+			<itunes:duration>01:10:06</itunes:duration>
+			<itunes:keywords>cinema alemão, expressionismo alemão, o vampiro de düsseldorf</itunes:keywords>
+			<itunes:summary>Caio Fernandes fala sobre o movimento expressionista alemão utilizando o clássico 'M, O Vampiro de Düsseldorf', de 1931, como exemplo.</itunes:summary>
+			<itunes:subtitle>Caio Fernandes fala sobre o movimento expressionista alemão utilizando o clássico 'M, O Vampiro de Düsseldorf', de 1931, como exemplo.</itunes:subtitle>
+			<itunes:author>Caio Fernandes</itunes:author>
+			<itunes:explicit>NO</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/EPIS%C3%93DIO+4.mp3" type="audio/mpeg" />
+		</item>
 		<item>
 			<author>O Carambola Cast</author>
 			<title>O Carambola Cast #3 - Especial Yasujiro Ozu (1903-1963)</title>

@@ -240,7 +240,7 @@ textarea {
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
 }
-.main-navigation .menu-item a:hover {
+.main-navigation a:hover {
 	text-decoration: underline;
 }
 

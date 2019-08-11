@@ -240,8 +240,8 @@ textarea {
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
 }
-.main-navigation a:hover {
-	color: #ffffff !important;
+.main-navigation .menu-item a:hover {
+	text-decoration: underline;
 }
 
 .main-navigation ul ul {
@@ -768,7 +768,7 @@ textarea {
 	position: relative;
 	text-align: center;
 	overflow: hidden;
-	height: 200px;
+	max-height: 200px;
 }
 .entry-thumb-inner {
 	position: absolute;

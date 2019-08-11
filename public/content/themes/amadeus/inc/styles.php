@@ -39,12 +39,12 @@ function amadeus_custom_styles() {
 	// Primary color
 	$primary_color = get_theme_mod( 'primary_color', '#618EBA' );
 	if ( $primary_color != '#618EBA' ) {
-		$custom .= 'a, a:hover, .main-navigation a:hover, .nav-next a:hover, .nav-previous a:hover, .social-navigation li a:hover { color:' . esc_attr( $primary_color ) . ' !important;}' . "\n";
+		$custom .= '.nav-next a:hover, .nav-previous a:hover, .social-navigation li a:hover { color:' . esc_attr( $primary_color ) . ' !important;}' . "\n";
 		$custom .= 'button, .button, input[type="button"], input[type="reset"], input[type="submit"], .entry-thumb-inner { background-color:' . esc_attr( $primary_color ) . '}' . "\n";
 	}
 	// Body
 	$body_text = get_theme_mod( 'body_text_color', '#4c4c4c' );
-	$custom   .= 'body, .widget a { color:' . esc_attr( $body_text ) . '}' . "\n";
+	$custom   .= 'body, a, a:hover, .widget a { color:' . esc_attr( $body_text ) . '}' . "\n";
 	// Social bg
 	$social_bg = get_theme_mod( 'social_bg', '#fff' );
 	$custom   .= '.social-navigation { background-color:' . esc_attr( $social_bg ) . '}' . "\n";

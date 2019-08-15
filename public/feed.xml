@@ -22,7 +22,7 @@
 		<language>pt-br</language>
 		<title>O Carambola Cast</title>
 		<link>https://ocarambola.com/</link>
-		<description>Cinema clássico, cinema noir, antigo, velho... Esses são os temas discutidos no podcast O Carambola. Toda quarta-feira, às 22h, Caio Fernandes conta suas percepções sobre um filme clássico e discute aspectos importantes da indústria cinematográfica. Ouça e compartilhe com seus amigos cinéfilos!
+		<description>Cinema clássico, cinema noir, antigo, velho... Esses são os temas discutidos no podcast O Carambola. Toda quinta-feira, às 12h, Caio Fernandes conta suas percepções sobre um filme clássico e discute aspectos importantes da indústria cinematográfica. Ouça e compartilhe com seus amigos cinéfilos!
                              Blog: ocarambola.com</description>
 		<pubDate>Sun, 07 Jul 2019 18:00:00 -0300</pubDate>
 		<itunes:owner>
@@ -36,7 +36,26 @@
 		</image>
 		<item>
 			<author>O Carambola Cast</author>
-			<title>O Carambola Cast #4 - Expressionismo alemão + 'M, O Vampiro de Düsseldorf' (1931)</title>
+			<title>#5 - Terror psicológico + 'Repulsa ao Sexo' (1965)</title>
+			<description>
+                                No quinto episódio do podcast O Carambola, Caio Fernandes fala um pouco sobre o subgênero terror psicológico e todas suas características por meio de uma análise do filme "Repulsa ao Sexo", de 1965. Dirigido por Roman Polanski,a produção é uma das principais obras do gênero e o segundo filme da Trilogia do Apartamento.
+				#ocarambola #cinemanoir #repulsaaosexo #terrorpsicologico
+                                Blog: ocarambola.com
+                                Twitter: twitter.com/olarcaio</description>
+			<link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep5.mp3</link>
+			<pubDate>Wed, 15 Aug 2019 12:00 -0300</pubDate>
+			<itunes:duration>01:20:10</itunes:duration>
+			<itunes:keywords>cinema noir, terror psicológico, repulsa ao sexo</itunes:keywords>
+			<itunes:summary>Caio Fernandes fala sobre terror psicológico por meio do filme "Repulsa ao Sexo", de 1965.</itunes:summary>
+			<itunes:subtitle>Caio Fernandes fala sobre terror psicológico por meio de filme "Repulsa ao Sexo", de 1965, como exemplo.</itunes:subtitle>
+			<itunes:author>Caio Fernandes</itunes:author>
+			<itunes:explicit>NO</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/carambola_cast_ep5.mp3" type="audio/mpeg" />
+		</item>
+		<item>
+			<author>O Carambola Cast</author>
+			<title>#4 - Expressionismo alemão + 'M, O Vampiro de Düsseldorf' (1931)</title>
 			<description>
                                 No episódio de número quatro do podcast O Carambola, Caio Fernandes fala sobre expressionismo alemão e o filme "M, O Vampiro de Düsseldorf". De 1931, o clássico de Fritz Lang é um dos maiores representantes do movimento e um thriller de tirar o fôlego.				
 				#ocarambola #cinema #expressionismo
@@ -46,9 +65,9 @@
 			<link>https://o-carambola.s3.us-east-2.amazonaws.com/podcasts/EPIS%C3%93DIO+4.mp3</link>
 			<pubDate>Wed, 07 Aug 2019 21:00 -0300</pubDate>
 			<itunes:duration>01:10:06</itunes:duration>
-			<itunes:keywords>cinema alemão, expressionismo alemão, o vampiro de düsseldorf</itunes:keywords>
-			<itunes:summary>Caio Fernandes fala sobre o movimento expressionista alemão utilizando o clássico 'M, O Vampiro de Düsseldorf', de 1931, como exemplo.</itunes:summary>
-			<itunes:subtitle>Caio Fernandes fala sobre o movimento expressionista alemão utilizando o clássico 'M, O Vampiro de Düsseldorf', de 1931, como exemplo.</itunes:subtitle>
+			<itunes:keywords>cinema alemão, expressionismo alemão, m - o vampiro de düsseldorf</itunes:keywords>
+			<itunes:summary>Caio Fernandes fala sobre o movimento expressionista alemão utilizando o clássico "M, O Vampiro de Düsseldorf", de 1931, como exemplo.</itunes:summary>
+			<itunes:subtitle>Caio Fernandes fala sobre o movimento expressionista alemão utilizando o clássico "M, O Vampiro de Düsseldorf", de 1931, como exemplo.</itunes:subtitle>
 			<itunes:author>Caio Fernandes</itunes:author>
 			<itunes:explicit>NO</itunes:explicit>
 			<itunes:block>no</itunes:block>
@@ -56,7 +75,7 @@
 		</item>
 		<item>
 			<author>O Carambola Cast</author>
-			<title>O Carambola Cast #3 - Especial Yasujiro Ozu (1903-1963)</title>
+			<title>#3 - Especial Yasujiro Ozu (1903-1963)</title>
 			<description>
 				No episódio de número três do podcast O Carambola, Caio Fernandes presta uma pequena homenagem a Yasujiro Ozu, cineasta japonês que por muitos é considerado o maior dos realizadores asiáticos. Mestre em retratar dramas familiares e problemáticas vividas pelo Japão do pós-guerra, Ozu dirigiu e escreveu mais de cinquenta filmes e inspirou cineastas de todo mundo com seu jeito obsessivo e brilhante de fazer cinema.
 				#ocarambola #cinema #yasujiroozu
@@ -76,9 +95,9 @@
 		</item>
 		<item>
 			<author>O Carambola Cast</author>
-			<title>O Carambola Cast #2 - Thriller + 'The Third Man' (1949)</title>
+			<title>#2 - Thriller + 'The Third Man' (1949)</title>
 			<description>
-				No segundo episódio do podcast O Carambola, Caio Fernandes conta suas percepções sobre The Third Man, um clássico thriller de 1949. Dirigido por Carol Reed, o filme é uma das principais obras cinematográficas dos anos 1940 e chama a atenção por reunir de forma prolixa todos os elementos que um bom filme de mistério precisa ter.
+				No segundo episódio do podcast O Carambola, Caio Fernandes conta suas percepções sobre "The Third Man", um clássico thriller de 1949. Dirigido por Carol Reed, o filme é uma das principais obras cinematográficas dos anos 1940 e chama a atenção por reunir de forma prolixa todos os elementos que um bom filme de mistério precisa ter.
 				#ocarambola #cinema #thethirdman
 				Blog: https://ocarambola.com
 				Twitter: https://twitter.com/olarcaio
@@ -87,8 +106,8 @@
 			<pubDate>Sun, 21 Jul 2019 18:00 -0300</pubDate>
 			<itunes:duration>00:58:48</itunes:duration>
 			<itunes:keywords>thriller, the third man, cinema noir</itunes:keywords>
-			<itunes:summary>Caio Fernandes comenta o filme The Third Man, de 1949</itunes:summary>
-			<itunes:subtitle>Caio Fernandes comenta o filme The Third Man, de 1949</itunes:subtitle>
+			<itunes:summary>Caio Fernandes comenta o filme "The Third Man", de 1949</itunes:summary>
+			<itunes:subtitle>Caio Fernandes comenta o filme "The Third Man", de 1949</itunes:subtitle>
 			<itunes:author>Caio Fernandes</itunes:author>
 			<itunes:explicit>NO</itunes:explicit>
 			<itunes:block>no</itunes:block>
@@ -96,9 +115,9 @@
 		</item>
 		<item>
 			<author>O Carambola Cast</author>
-			<title>O Carambola Cast #1 - Piloto + 'Stagecoach' (1939)</title>
+			<title>#1 - Piloto + 'Stagecoach' (1939)</title>
 			<description>
-				No episódio piloto do podcast O Carambola, Caio Fernandes conta suas percepções sobre um dos maiores clássicos do western, Stagecoach, de 1939. Dirigido por John Ford, o filme é uma das principais obras cinematográficas do gênero e foi responsável por fazer as carreiras de John Wayne e Claire Trevor decolar.
+				No episódio piloto do podcast O Carambola, Caio Fernandes conta suas percepções sobre um dos maiores clássicos do western: "Stagecoach", de 1939. Dirigido por John Ford, o filme é uma das principais obras cinematográficas do gênero e foi responsável por fazer as carreiras de John Wayne e Claire Trevor decolar.
 				#ocarambola #cinema #stagecoach
 				Blog: https://ocarambola.com
 				Twitter: https://twitter.com/olarcaio
@@ -107,8 +126,8 @@
 			<pubDate>Sun, 07 Jul 2019 22:00 -0300</pubDate>
 			<itunes:duration>0:50:19</itunes:duration>
 			<itunes:keywords>piloto, stagecoach, cinema noir</itunes:keywords>
-			<itunes:summary>Caio Fernandes comenta o filme Stagecoach, de 1939</itunes:summary>
-			<itunes:subtitle>Caio Fernandes comenta o filme Stagecoach, de 1939</itunes:subtitle>
+			<itunes:summary>Caio Fernandes comenta o filme "Stagecoach", de 1939</itunes:summary>
+			<itunes:subtitle>Caio Fernandes comenta o filme "Stagecoach", de 1939</itunes:subtitle>
 			<itunes:author>Caio Fernandes</itunes:author>
 			<itunes:explicit>NO</itunes:explicit>
 			<itunes:block>no</itunes:block>
